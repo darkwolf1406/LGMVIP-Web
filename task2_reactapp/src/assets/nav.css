@@ -1,0 +1,19 @@
+.navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 24px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+
+.getBtn {
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.getBtn:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    border: 2px solid black;
+}
