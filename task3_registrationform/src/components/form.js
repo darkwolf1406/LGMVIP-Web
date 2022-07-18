@@ -8,7 +8,6 @@ const RegistrationForm = (props) => {
     const [address, setAddress] = useState("");
     const [contact, setContact] = useState("");
     const [packages, setPackages] = useState("");
-    const [currUsers, setCurrUsers] = useState([]);
 
     return (
         <div className="container">
