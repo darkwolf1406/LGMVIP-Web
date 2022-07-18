@@ -1,0 +1,19 @@
+.navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 24px;
+    letter-spacing: 10px;
+    font-weight: bold;
+    background-color: black;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}

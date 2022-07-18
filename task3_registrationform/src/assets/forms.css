@@ -1,0 +1,25 @@
+tr, td {
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.getBtn {
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    font-family:monospace;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.getBtn:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    border: 2px solid black;
+}
